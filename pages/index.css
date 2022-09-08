@@ -1,0 +1,7 @@
+@import url('../vendor/normalize.css');
+@import url('../blocks/game/game.css');
+@import url('../blocks/poo/poo.css');
+@import url('../blocks/score/score.css');
+@import url('../blocks/smile/smile.css');
+@import url('../blocks/smile/_action/smile_action_jump.css');
+@import url('../blocks/smile/_action/smile_action_rotating.css');

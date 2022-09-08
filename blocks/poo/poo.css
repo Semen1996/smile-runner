@@ -1,0 +1,15 @@
+.poo {
+  width: 45px;
+  position: absolute;
+  bottom: 0px;
+  animation: move 3.999s linear;
+}
+
+@keyframes move {
+  from {
+    right: 10px;
+  }
+  to {
+    right: 580px;
+  }
+}
